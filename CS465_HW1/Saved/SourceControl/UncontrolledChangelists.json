@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS465_WhitternA_AshtonJ_CurtisI/CS465_HW1/Content/Levels/Level1.umap",
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS465_WhitternA_AshtonJ_CurtisI/CS465_HW1/Content/StarterContent/Blueprints/Cube_Grab.uasset",
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS465_WhitternA_AshtonJ_CurtisI/CS465_HW1/Content/StarterContent/Blueprints/Cube_Sound.uasset",
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS465_WhitternA_AshtonJ_CurtisI/CS465_HW1/Content/StarterContent/Blueprints/Cube_Color.uasset",
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS465_WhitternA_AshtonJ_CurtisI/CS465_HW1/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS465_WhitternA_AshtonJ_CurtisI/CS465_HW1/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uasset",
 				"D:/Github/CS465_WhitternA_AshtonJ_CurtisI/CS465_HW1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/Github/CS465_WhitternA_AshtonJ_CurtisI/CS465_HW1/Content/VRTemplate/Blueprints/VRPawn.uasset"
 			]
