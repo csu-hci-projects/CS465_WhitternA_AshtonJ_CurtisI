@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/orteg/Desktop/Jacinda Li - don't delete/CS465UnrealDemo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/orteg/Desktop/Jacinda Li - don't delete/CS465UnrealDemo/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/orteg/Desktop/Jacinda Li - don't delete/CS465UnrealDemo/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/orteg/Desktop/Jacinda Li - don't delete/CS465UnrealDemo/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset"
+			]
+		}
+	]
+}
