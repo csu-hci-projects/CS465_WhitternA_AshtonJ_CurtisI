@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Github/CS465_WhitternA_AshtonJ_CurtisI/CS465UnrealDemo/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"D:/Github/CS465_WhitternA_AshtonJ_CurtisI/CS465UnrealDemo/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/Github/CS465_WhitternA_AshtonJ_CurtisI/CS465UnrealDemo/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"D:/Github/CS465_WhitternA_AshtonJ_CurtisI/CS465UnrealDemo/Content/Cubes/Cube_Color.uasset",
+				"D:/Github/CS465_WhitternA_AshtonJ_CurtisI/CS465UnrealDemo/Content/StarterContent/Blueprints/Cube_Color.uasset",
+				"D:/Github/CS465_WhitternA_AshtonJ_CurtisI/CS465UnrealDemo/Content/Cubes/Cube_Grab.uasset",
+				"D:/Github/CS465_WhitternA_AshtonJ_CurtisI/CS465UnrealDemo/Content/StarterContent/Blueprints/Cube_Grab.uasset",
+				"D:/Github/CS465_WhitternA_AshtonJ_CurtisI/CS465UnrealDemo/Content/Cubes/Cube_Sound.uasset",
+				"D:/Github/CS465_WhitternA_AshtonJ_CurtisI/CS465UnrealDemo/Content/StarterContent/Blueprints/Cube_Sound.uasset",
+				"D:/Github/CS465_WhitternA_AshtonJ_CurtisI/CS465UnrealDemo/Content/VRTemplate/Input/IMC_Default.uasset",
+				"D:/Github/CS465_WhitternA_AshtonJ_CurtisI/CS465UnrealDemo/Content/VRTemplate/Blueprints/BPI_FingerTracking.uasset",
+				"D:/Github/CS465_WhitternA_AshtonJ_CurtisI/CS465UnrealDemo/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uasset",
+				"D:/Github/CS465_WhitternA_AshtonJ_CurtisI/CS465UnrealDemo/Content/VRTemplate/Input/Actions/Hands/IA_Hand_Move.uasset",
+				"D:/Github/CS465_WhitternA_AshtonJ_CurtisI/CS465UnrealDemo/Content/VRTemplate/Input/Actions/Hands/IA_Hand_Turn.uasset",
+				"D:/Github/CS465_WhitternA_AshtonJ_CurtisI/CS465UnrealDemo/Content/VRTemplate/Blueprints/B_AssetGuideline_VRTemplate.uasset",
+				"C:/Users/orteg/Desktop/Jacinda Li - don't delete/CS465UnrealDemo/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/orteg/Desktop/Jacinda Li - don't delete/CS465UnrealDemo/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/orteg/Desktop/Jacinda Li - don't delete/CS465UnrealDemo/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/orteg/Desktop/Jacinda Li - don't delete/CS465UnrealDemo/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset"
+			]
+		}
+	]
+}
