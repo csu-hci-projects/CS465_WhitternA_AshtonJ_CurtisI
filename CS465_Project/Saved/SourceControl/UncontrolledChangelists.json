@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS465_WhitternA_AshtonJ_CurtisI/CS465_Project/Content/Blueprints/FittSphere.uasset",
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS465_WhitternA_AshtonJ_CurtisI/CS465_Project/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS465_WhitternA_AshtonJ_CurtisI/CS465_Project/Content/Blueprints/FittsTrialData.uasset",
+				"C:/My Stuff/School/CSU/Fall_2024/CS310h/CS465_WhitternA_AshtonJ_CurtisI/CS465_Project/Content/Levels/Level1.umap",
 				"D:/Github/CS465-Project/CS465_Project/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/Github/CS465-Project/CS465_Project/Content/Blueprints/BP_TestMenu.uasset",
 				"D:/Github/CS465-Project/CS465_Project/Content/Blueprints/StartMenu.uasset",
