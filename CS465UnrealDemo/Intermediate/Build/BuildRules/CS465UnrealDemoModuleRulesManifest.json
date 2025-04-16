@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\Github\\CS465_WhitternA_AshtonJ_CurtisI\\CS465UnrealDemo\\Plugins\\OculusHandTools\\Source\\OculusHandPoseRecognition\\OculusHandPoseRecognition.Build.cs",
-		"D:\\Github\\CS465_WhitternA_AshtonJ_CurtisI\\CS465UnrealDemo\\Plugins\\OculusHandTools\\Source\\OculusInteractable\\OculusInteractable.Build.cs",
-		"D:\\Github\\CS465_WhitternA_AshtonJ_CurtisI\\CS465UnrealDemo\\Plugins\\OculusHandTools\\Source\\OculusUtils\\OculusUtils.Build.cs"
-	],
-	"EngineVersion": "5.3.2"
-}
