@@ -1,4 +1,4 @@
-#CS465 Project, Checkpoint 2
+# CS465 Project, Checkpoint 2
 
 Code Walkthrough:
 
