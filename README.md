@@ -1,6 +1,6 @@
 # CS465 Project, Checkpoint 2
 
-Code Walkthrough:
+Code Walkthrough: https://youtu.be/r8zAabLOHdo
 
 
 
