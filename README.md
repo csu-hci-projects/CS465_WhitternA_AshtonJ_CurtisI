@@ -4,9 +4,9 @@ Code Walkthrough:
 
 
 
-Project Walkthrough:
+Project Walkthrough: 
 
 
 
-Overleaf Document:
+Overleaf Document: (https://www.overleaf.com/read/dkjdwpvhksqx#eeb600)
 
