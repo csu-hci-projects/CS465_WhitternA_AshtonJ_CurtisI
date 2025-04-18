@@ -8,5 +8,5 @@ Project Walkthrough:
 
 
 
-Overleaf Document: (https://www.overleaf.com/read/dkjdwpvhksqx#eeb600)
+Overleaf Document: https://www.overleaf.com/read/dkjdwpvhksqx#eeb600
 
