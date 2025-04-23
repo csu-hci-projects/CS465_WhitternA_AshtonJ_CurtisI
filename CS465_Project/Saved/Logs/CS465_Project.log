@@ -2405,3 +2405,27 @@ UnknownFunction []
 [2025.04.23-02.19.38:106][571]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
 [2025.04.23-02.19.38:113][571]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
 [2025.04.23-02.19.38:126][571]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2025.04.23-02.19.38:230][571]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2025.04.23-02.19.38:345][571]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2025.04.23-02.19.38:378][571]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2025.04.23-02.19.38:379][571]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2025.04.23-02.19.38:379][571]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2025.04.23-02.19.38:391][571]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2025.04.23-02.19.38:415][571]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2025.04.23-02.19.38:415][571]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2025.04.23-02.19.38:415][571]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2025.04.23-02.19.38:498][571]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2025.04.23-02.19.38:498][571]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2025.04.23-02.19.38:510][571]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2025.04.23-02.19.38:510][571]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2025.04.23-02.19.38:510][571]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2025.04.23-02.19.38:540][571]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2025.04.23-02.19.38:540][571]LogPakFile: Destroying PakPlatformFile
+[2025.04.23-02.19.38:547][571]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2025.04.23-02.19.38:547][571]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2025.04.23-02.19.38:555][571]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2025.04.23-02.19.38:555][571]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2025.04.23-02.19.38:564][571]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2025.04.23-02.19.39:233][571]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.04.23-02.19.39:307][571]LogExit: Exiting.
+[2025.04.23-02.19.39:451][571]Log file closed, 04/22/25 20:19:39
